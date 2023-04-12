@@ -1,0 +1,10 @@
+Ascii name: O+N+U+R = 79+78+85+82 = 324
+Ascii second name: I+L+K+E = 73+76+75+69 = 293
+Ascii surname: U+G+U+R+L+U = 85+71+85+82+76+85 = 484
+Ascii total: 1101
+Timernumber=(Asciitotal%14) + 1 = 10
+ARRNUMBER=65535
+Duration=(Asciisurname%1500)*30 = 14520
+LEDPINNUMBER=(Asciitotal%4) + 12 = 13
+
+
